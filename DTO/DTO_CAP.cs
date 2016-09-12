@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace DTO
 {
+	
+	///vidu
     public class DTO_CAP
     {
         private string _MACAP;
